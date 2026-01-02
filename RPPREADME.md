@@ -1,50 +1,77 @@
 🏠 Real Estate Price Prediction Web Application
+
 📌 Project Overview
+The Real Estate Price Prediction Web Application is an end-to-end machine learning project built using Python and deployed as a Flask-based web application.  
+The system predicts house prices based on user-provided inputs such as location, area (square feet), number of bedrooms (BHK), and number of bathrooms.
 
-This project is a Real Estate Price Prediction System built using Data Science and Machine Learning, deployed as a Flask web application.
-The application predicts house prices based on user-provided inputs such as location, area, number of bedrooms (BHK), and bathrooms.
+This project demonstrates the complete machine learning workflow, including data preprocessing, model training, evaluation, and web deployment.
 
-The goal of this project is to demonstrate an end-to-end machine learning workflow, from data preprocessing and model training to web deployment.
+---
 
 🎯 Objectives
-To analyze real estate data and identify key price-influencing features
-To build a regression-based machine learning model for price prediction
-To deploy the trained model using Flask for real-time predictions
+- Analyze real estate data to identify key factors influencing property prices  
+- Build a regression-based machine learning model for accurate price prediction  
+- Deploy the trained model using Flask for real-time user interaction  
+
+---
 
 🛠️ Technologies Used
-Programming Language: Python
-Libraries: NumPy, Pandas, Scikit-learn, Matplotlib
-Machine Learning: Linear Regression
-Web Framework: Flask
-Frontend: HTML, CSS
-Tools: Jupyter Notebook, VS Code
+Programming Language:Python  
+
+Libraries & Tools:
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+Machine Learning Algorithm:
+- Linear Regression
+
+Web Development:
+- Backend: Flask  
+- Frontend: HTML, CSS  
+
+Development Tools:
+- Jupyter Notebook
+- VS Code  
+
+---
 
 📊 Dataset Description
-The dataset contains real estate property details such as:
-Location
-Area (in square feet)
-Number of bedrooms (BHK)
-Number of bathrooms
+The dataset consists of real estate property details, including:
+- Location  
+- Area (in square feet)  
+- Number of bedrooms (BHK)  
+- Number of bathrooms  
+- Price (target variable)
+
+---
 
 ⚙️ Project Workflow
-1.Data Collection and Cleaning
-2.Exploratory Data Analysis (EDA)
-3.Feature Engineering
-4.Model Training and Evaluation
-5.Saving the Trained Model
-6.Flask Integration
-7.Web Application Deployment
+1. Data collection and cleaning  
+2. Exploratory Data Analysis (EDA)  
+3. Feature engineering  
+4. Model training and evaluation  
+5. Saving the trained model  
+6. Flask integration  
+7. Web application deployment  
+
+---
 
 🚀 Features
-User-friendly web interface
-Real-time house price prediction
-Accurate regression-based results
-End-to-end ML project implementation
+- User-friendly web interface  
+- Real-time house price prediction  
+- Accurate regression-based results  
+- Complete end-to-end ML implementation  
+
+---
 
 📌 Future Enhancements
-Add more advanced models (Random Forest, XGBoost)
-Improve UI using React or Bootstrap
-Deploy on cloud platforms like AWS or Render
+- Implement advanced models such as Random Forest and XGBoost  
+- Improve UI using Bootstrap or React  
+- Deploy the application on cloud platforms like AWS or Render  
+
+---
 
 👩‍💻 Author
 Geetha Valluri
