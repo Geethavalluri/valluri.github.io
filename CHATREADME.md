@@ -1,5 +1,7 @@
  🤖 Emotion-Aware & Content-Based Recommendation Chatbot
+
 📌 Project Overview
+
 The Emotion-Aware and Content-Based Recommendation Chatbot is an interactive application that recommends songs based on user input such as song name, mood keywords, or emojis.  
 The system infers user mood using rule-based logic derived from song metadata (genre and popularity) and emoji mapping, and generates recommendations using content-based filtering techniques.
 
