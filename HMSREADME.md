@@ -27,3 +27,5 @@ The Hospital Management System project was designed to develop an efficient and 
 ## 👩‍💻 Author
 Geetha Valluri
 
+
+
