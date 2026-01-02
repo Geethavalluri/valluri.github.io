@@ -1,6 +1,7 @@
 🏠 Real Estate Price Prediction Web Application
 
 📌 Project Overview
+
 The Real Estate Price Prediction Web Application is an end-to-end machine learning project built using Python and deployed as a Flask-based web application.  
 The system predicts house prices based on user-provided inputs such as location, area (square feet), number of bedrooms (BHK), and number of bathrooms.
 
