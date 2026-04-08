@@ -1,0 +1,33 @@
+========== CRYPTO PORTFOLIO REPORT ==========
+
+Analyzing: Bitcoin
+Expected Return: 4e-06
+Volatility: 0.005923
+Risk Level: Medium Risk
+-----------------------------------
+
+Analyzing: Ethereum
+Expected Return: -1.1e-05
+Volatility: 0.007258
+Risk Level: Medium Risk
+-----------------------------------
+
+Analyzing: Cardano
+Expected Return: -2.9e-05
+Volatility: 0.008065
+Risk Level: Medium Risk
+-----------------------------------
+
+Analyzing: Solana
+Expected Return: 2.7e-05
+Volatility: 0.008029
+Risk Level: Medium Risk
+-----------------------------------
+
+Analyzing: Ripple
+Expected Return: -1.5e-05
+Volatility: 0.007302
+Risk Level: Medium Risk
+-----------------------------------
+
+=========== REPORT COMPLETE ===========
